@@ -1,0 +1,7 @@
+Assignment NO 1:
+
+--Question: 
+Is there an alternative method available to transpile our TypeScript code without executing the tsc command?
+
+--Answer: 
+Yes, there are several way but SWC and Babel are one of them Swc is 2X faster than babel according to SWC website it is Javascript/Typescript transpiler and is written completely in Rust(Rust is language mostly used for cyber-security or hacking purposes).
